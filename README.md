@@ -1,5 +1,5 @@
 # IntelliNotes
-(./Home.png)
+(/Home.png)
  Projeto em ReactJS e Typescript, com finalidade de servir como um app de notas.
 
 ## Recursos Principais
