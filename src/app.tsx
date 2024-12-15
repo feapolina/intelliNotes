@@ -53,8 +53,6 @@ export function App() {
 
   return (
     <div className="mx-auto max-w-6xl my-12 space-y-6 px-5 md:px-0">
-      {/* Logo da aplicação */}
-      <img src={imgLogo} alt="logo nlw expert" />
       {/* SearchBar */}
       <form className="w-full ">
         <input
