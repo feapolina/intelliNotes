@@ -6,8 +6,7 @@
 - Possibilidade de criar notas de texto ou, se preferir, utilizar um recurso nativo do browser de reconhecimento de voz.
 
 ## Como Usar
-- Você pode acessar o projeto aqui:
-  [Em desenvolvimento]
+- Você pode acessar o projeto [aqui](https://feapolina.github.io/intelliNotes)
 
 ## Executar Localmente
 
