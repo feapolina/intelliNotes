@@ -1,5 +1,4 @@
 import { useState } from "react";
-import imgLogo from "./assets/logo-nlw-expert.svg";
 import { NewNoteCard } from "./components/new-note-card";
 import { NoteCard } from "./components/note-card";
 import { ChangeEvent } from "react";
